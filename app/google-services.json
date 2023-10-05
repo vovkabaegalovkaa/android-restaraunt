@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "311622851976",
+    "project_id": "kurswork-93dc9",
+    "storage_bucket": "kurswork-93dc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311622851976:android:caa73ce8b8a83f3919ee3d",
+        "android_client_info": {
+          "package_name": "com.oopip.kursach"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311622851976-0j3rbdnpgrib0o0ssvbb05t41m4dqd6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBssi_VajfAYMyjL-Cmdjm9B5ks2VlYEuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311622851976-0j3rbdnpgrib0o0ssvbb05t41m4dqd6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
